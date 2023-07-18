@@ -1,10 +1,14 @@
 import { Outlet } from "react-router-dom"
 export default function AuthLayout() {
     return (
-        <div>
-            AuthLayout
-            <Outlet/>
-        </div>
+        <main>
+            <img src="" alt="imagen logotipo" />
+
+            <div>
+                <Outlet/>
+            </div>
+            
+        </main>
     )
     }
     
