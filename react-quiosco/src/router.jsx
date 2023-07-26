@@ -1,4 +1,4 @@
-import { createBrowserRouter }from 'react-router-dom'
+import { createBrowserRouter }from 'react-router-dom' 
 import Layout from './layaouts/Layout'
 import Inicio from './views/Inicio'
 import AuthLayout from './layaouts/AuthLayout'
