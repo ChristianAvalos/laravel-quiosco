@@ -28,6 +28,11 @@ const categorias = [
         icono: "galletas",
         nombre: "Galletas",
         id: 6
+    },
+    {
+        icono: "caramelos",
+        nombre: "Caramelos",
+        id: 7
     }
 ]
 
